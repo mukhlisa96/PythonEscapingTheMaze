@@ -1,0 +1,1 @@
+An Escape Maze Game is a type of puzzle or adventure game where the player must navigate through a maze or labyrinth to reach an exit while avoiding obstacles, traps, or enemies. It’s commonly used in programming projects to teach logic, loops, conditionals, and user input.
